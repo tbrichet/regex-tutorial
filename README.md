@@ -20,7 +20,9 @@ This week's challenge was to create a tutorial that explains how a specific regu
 * Markdown <br>
 
 ## Links
-Gist URL | 
-GitHub Repository | https://github.com/tbrichet/regex-tutorial
+Gist URL | https://gist.github.com/tbrichet/bbb74f6daee837c5381d813ad530a678 <br>
+GitHub Repository | https://github.com/tbrichet/regex-tutorial <br>
 
 ## Programs and Contributions
+* Starter template for tutorial provided by University of Arizona <br>
+* Remaining tutorial created with <3 by Tara Brichetto <br>
